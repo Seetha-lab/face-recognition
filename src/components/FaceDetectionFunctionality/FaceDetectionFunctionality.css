@@ -1,0 +1,13 @@
+.boundingthebox {
+    
+    position: absolute;
+    box-shadow: 0 0 0 3px #33bd09 inset;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
